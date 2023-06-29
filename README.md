@@ -4,4 +4,5 @@
 ## Project Video Snapshots
 ### ![](https://github.com/Nwiradiradja/DataModeling-GroupProject/blob/main/VideoSnippet.png?raw=true)
 ### ![](https://github.com/Nwiradiradja/DataModeling-GroupProject/blob/main/VideoSnippet2.png?raw=true)
+### ![](https://github.com/Nwiradiradja/DataModeling-GroupProject/blob/main/VideoSnippet3.png?raw=true)
 
